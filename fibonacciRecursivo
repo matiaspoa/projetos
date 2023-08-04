@@ -1,9 +1,7 @@
 public class fibonacciRecursivo {
 
 	public static void main(String[] args) {
-		System.out.println("Os primeiros 10 números da sequência de Fibonacci são:");
 		for (int i = 0; i < 10; i++) {
-			System.out.println(fibonacci(i));
 		}
 	}
 
